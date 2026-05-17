@@ -1,0 +1,2 @@
+TOKEN = "8005501939:AAEkb9PpoeQvdpcv87ve4saaG6G06ar16D0"
+ADMIN_ID = 8775448579  # Твой цифровой ID
